@@ -11,3 +11,9 @@
 - Syntax in python is case sensitive
 - Some data types cannot be indexed or sliced
 ## Methodology
+- Functions and methods on a list
+- Functions and methods on tupple
+- Functions and methods on set
+- Functions and methods in the dictionary
+- Indexing and Slicing on sequence data types
+## Benefit
