@@ -17,3 +17,12 @@
 - Functions and methods in the dictionary
 - Indexing and Slicing on sequence data types
 ## Benefit
+- Knowing the various functions and methods that will be applied to each data type used
+- Knowing the implementation of functions and methods that are applied to each data type
+## Expected Outcome
+- Know how to create sequence data types
+- Know how to create data types sets and dictionaries
+- Knowing the functions and methods used in sequence data types (list, tupple)
+- Knowing the functions and methods used in data set types and also dictionaries
+- Knowing the implementation of the use of functions and methods for each data type
+- Knowing the implementation of indexing and slicing on sequence data types
